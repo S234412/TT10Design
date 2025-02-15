@@ -4,7 +4,7 @@ project:
   title:        "TinyChipDesign"      # Project title
   author:       "Oliver"      # Your name
   discord:      "s234412"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Initial design"      # One line description of what your project does
+  description:  "Initial design "      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -25,7 +25,7 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "OUT1"
+  uo[0]: "OUT0"
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
