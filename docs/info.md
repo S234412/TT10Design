@@ -11,7 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
-It should show an "O" when a secret code is put in
+Template
 
 ## How to test
 
